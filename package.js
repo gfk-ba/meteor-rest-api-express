@@ -12,7 +12,7 @@ Npm.depends({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
-  api.use('gfk:rest-api-base@0.1.4', 'server');
+  api.use('gfk:rest-api-base@0.1.5', 'server');
   api.addFiles('gfk:rest-api-express.js', 'server');
   api.export('RestApi');
 });
