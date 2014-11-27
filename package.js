@@ -1,7 +1,7 @@
 Package.describe({
   name: 'gfk:rest-api-express',
   summary: 'Extends rest-api-base and injects middleware npm dependencies ',
-  version: '0.1.0',
+  version: '0.1.1',
   git: 'https://github.com/gfk-ba/meteor-rest-api-express'
 });
 
